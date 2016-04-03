@@ -1,1 +1,0 @@
-Application contain js, css, html and other files that show web site.
